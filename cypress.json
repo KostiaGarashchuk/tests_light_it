@@ -1,0 +1,8 @@
+{
+    "pluginsFile": false,
+    "screenshotOnRunFailure": false,
+    "defaultCommandTimeout": 30000,
+    "chromeWebSecurity": false,
+    "experimentalStudio": true
+  }
+  

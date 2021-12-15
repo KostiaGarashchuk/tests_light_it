@@ -1,0 +1,14 @@
+{
+  "name": "test_light_it",
+  "version": "1.0.0",
+  "description": "test task for light it",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open"
+  },
+  "author": "Kostia Garashchuk",
+  "license": "MIT",
+  "devDependencies": {
+    "cypress": "^9.1.1"
+  }
+}

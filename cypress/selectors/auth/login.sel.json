@@ -1,0 +1,6 @@
+{
+  "inputName": "input[placeholder='Name']",
+  "inputEmail": "input[placeholder='Email']",
+  "inputPassword": "input[placeholder='Password']",
+  "btnSubmit": "button[type='submit']"
+}

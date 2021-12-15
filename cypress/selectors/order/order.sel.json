@@ -1,0 +1,8 @@
+{
+  "inputName": "#name",
+  "inputQuantity": "#quantity",
+  "inputCost": "#cost",
+  "inputStatus": "#status",
+  "inputType": "#type"
+
+}
